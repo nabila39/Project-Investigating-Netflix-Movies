@@ -22,3 +22,22 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
+
+## Project Instructions
+
+Perform exploratory data analysis on the `netflix_data.csv` dataset to understand more about movies from the 1990s decade.
+
+### Tasks:
+
+1. **Most Frequent Movie Duration in the 1990s**:  
+   Determine the most frequent movie duration in the 1990s. Save an approximate answer as an integer variable called `duration`.
+
+2. **Count Short Action Movies**:  
+   A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this count as an integer variable called `short_movie_count`.
+
+### Dataset:
+The data is available in the file `netflix_data.csv`.
+
+---
+
+Happy analyzing!
